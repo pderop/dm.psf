@@ -1,0 +1,3 @@
+Private-Package: prototype.provider.impl
+Bundle-Activator: prototype.provider.impl.Activator
+Export-Package: prototype.provider

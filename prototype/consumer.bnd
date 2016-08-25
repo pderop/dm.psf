@@ -1,0 +1,2 @@
+Private-Package: prototype.consumer
+Bundle-Activator: prototype.consumer.Activator
